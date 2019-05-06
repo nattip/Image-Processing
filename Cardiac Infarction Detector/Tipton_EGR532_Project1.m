@@ -236,7 +236,3 @@ end
 
 %print total percentage of infarction for entire heart
 fprintf('Percentage of infarcted tissue in entire heart: %f\n',percentage_tot);
-
-
-
-
